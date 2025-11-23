@@ -62,11 +62,17 @@ OpenAI integration
 git clone https://github.com/SATWIKSAI18/Interview-Practice-Partner.git
 
 🖥️ 2. Install frontend dependencies
+
 cd ai_interviewer
+
 npm install
+
 npm run dev
 
 🛠️ 3. Install backend dependencies
+
 cd backend
+
 npm install
-npm start
+
+node server.js
