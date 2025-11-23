@@ -28,13 +28,13 @@ Performance graph across multiple interview attempts.
 
 🎯 Multiple Roles Support
 
-Full Stack Developer
+Sales Representative
 
 Data Analyst
 
 Frontend Developer
 
-DevOps
+Product Manager
 
 Software Engineer (General)
 
